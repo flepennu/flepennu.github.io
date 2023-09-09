@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Le Pennuisic;Frederic;;;
+FN:Frederic Le Pennuisic
+ORG:Cheri
+ADR;TYPE=WORK:228 Avenue de Nonneville
+
+TITLE:Papa
+TEL;TYPE=CELL:+33663391051
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:frederic@lepennuisic.fr
+URL;TYPE=Digital Business Card:
+URL:https://hmd.flep.pro
+URL;TYPE=Website:https://hmd.flep.pro
+URL;TYPE=Twitter:https://twitter.com/flepennu
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100138851
+END:VCARD
