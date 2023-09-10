@@ -2,8 +2,8 @@ BEGIN:VCARD
 VERSION:3.0
 N:Le Pennuisic;Fréderic;;;
 FN:Fréderic Le Pennuisic
-ORG:Epaurif
-ADR;TYPE=WORK:103 rue réaumur
+ORG:EPAURIF
+ADR;TYPE=WORK:103 rue réaumur 75002 Paris
 
 TITLE:Responsable Informatique
 TEL;TYPE=CELL:+33663391051
@@ -17,5 +17,5 @@ URL;TYPE=Location:https://goo.gl/maps/c4QA1PXA34b5oJns5
 URL;TYPE=LinkedIn:https://linkedin.com/https://www.linkedin.com/in/frederic-le-pennuisic/
 KEY;TYPE=PGP;ENCODING=b:
 NOTE:
-UID:EnBizCard-100302050
+UID:EnBizCard-100511762
 END:VCARD
